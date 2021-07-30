@@ -1,12 +1,12 @@
 #  Thinkpad T470s 
-## Opencore Hackintosh - Kaby Lake - Big Sur
+## Opencore Hackintosh
 
 ![](BigSur.png)
 
 ### Hardware Config: 
 
-- Make and Model: Lenovo Thinkpad T470s
-- Processor and Chipset: Intel Core i7-7600u
+- Model: Lenovo Thinkpad T470s
+- Chipset: Intel Core i7-7600u
 - Graphics: Intel HD 620
 - Monitor: 1080p with Multi-touch 
 - Storage: NVMe 256GB SSD
