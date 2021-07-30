@@ -7,9 +7,9 @@
 
 - Make and Model: Lenovo Thinkpad T470s
 - Processor and Chipset: Intel Core i7-7600u
-- Graphics: Intel HD 520
+- Graphics: Intel HD 620
 - Monitor: 1080p with Multi-touch 
-- Storage: Lenovo ex920 NVMe 256GB SSD
+- Storage: NVMe 256GB SSD
 - RAM: 20 GB 2133 MHz DDR4
 - 1 x PS/2 Trackpad + Trackpoint 
 - 1 x PS/2 Keyboard
